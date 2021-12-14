@@ -1,0 +1,5 @@
+src/test/java/com/codecentric/sample/store/service/RateServiceTest.java
+src/test/java/com/codecentric/sample/store/service/ItemServiceTest.java
+src/test/java/com/codecentric/sample/store/service/CustomerServiceTest.java
+src/test/java/com/codecentric/sample/store/service/external/HostServiceTest.java
+
